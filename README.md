@@ -30,3 +30,5 @@ THEN I exit the application, and the HTML is generated
 # Mock Up look (what finally product should look like) *screenshot is not my work*
 ![Mock up look](https://user-images.githubusercontent.com/93783055/161654321-0f472d53-3c32-4a0b-a0d1-2250dae9c4c6.png)
 
+# deployed app URL
+https://sabamahd.github.io/Team-Profile-Gen/
